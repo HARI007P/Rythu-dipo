@@ -96,17 +96,7 @@ Rythu-Dipo/
    npm install
    ```
 
-3. **Configure environment variables:**
-   
-   Edit `backend/.env` with your actual values:
-   ```env
-   PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/rythu-dipo
-   JWT_SECRET=your_super_secret_jwt_key_here
-   EMAIL_USER=your_email@gmail.com
-   EMAIL_PASS=your_gmail_app_password
-   ORDER_NOTIFICATION_EMAIL=hari07p@gmail.com
-   ```
+
 
 4. **Start MongoDB:**
    - **Local MongoDB:** Start your MongoDB service
@@ -268,15 +258,9 @@ npm run preview    # Preview production build
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
 
-**Rythu Dipo Team**
-- Email: support@rythu-dipo.com
-- Website: [Coming Soon]
 
 ## 🙏 Acknowledgments
 
@@ -286,6 +270,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for farmers by the Rythu Dipo Team**
-
-Supporting Farmers, Growing Together 🌱
