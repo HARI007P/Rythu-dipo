@@ -1,0 +1,417 @@
+[
+  {
+    "id": "1",
+    "name": "Organic Neem Pesticide",
+    "category": "pesticide",
+    "price": 450,
+    "description": "Natural neem-based pesticide for organic farming. Effective against aphids, caterpillars, and other pests. Safe for plants and environment.",
+    "image": "https://kaybeebio.com/wp-content/uploads/2023/05/Benefits-Of-The-OrgaNeem-10000-PPM-1.jpg",
+    "inStock": true,
+    "features": ["Organic", "Eco-friendly", "Long-lasting protection"]
+  },
+  {
+    "id": "2",
+    "name": "Advanced Fungicide Spray",
+    "category": "pesticide",
+    "price": 680,
+    "description": "Professional-grade fungicide for preventing and treating plant diseases. Suitable for vegetables, fruits, and ornamental plants.",
+    "image": "https://www.gardentech.com/-/media/project/oneweb/gardentech/images/2024-product-updates/daconil-rtu/daconil-ready-to-use-1.jpg",
+    "inStock": true,
+    "features": ["Quick action", "Disease prevention", "Professional grade"]
+  },
+  {
+    "id": "3",
+    "name": "Bio Insecticide",
+    "category": "pesticide",
+    "price": 520,
+    "description": "Biological insecticide made from natural ingredients. Targets specific pests without harming beneficial insects.",
+    "image": "https://www.katyayaniorganics.com/wp-content/uploads/2022/06/Bhasam_11zon.webp",
+    "inStock": true,
+    "features": ["Selective action", "Safe for bees", "Biodegradable"]
+  },
+  {
+    "id": "4",
+    "name": "Heavy Duty Garden Hoe",
+    "category": "tool",
+    "price": 850,
+    "description": "Durable steel garden hoe with comfortable wooden handle. Perfect for soil cultivation and weed removal.",
+    "image": "https://cdn.moglix.com/p/lqToJmR5UapS2-xxlarge.jpg",
+    "inStock": true,
+    "features": ["Steel construction", "Ergonomic handle", "Multi-purpose"]
+  },
+  {
+    "id": "5",
+    "name": "Professional Pruning Shears",
+    "category": "tool",
+    "price": 600,
+    "description": "High-quality pruning shears with sharp stainless steel blades. Ideal for trimming branches and shaping plants.",
+    "image": "https://static1.industrybuying.com/products/agriculture-garden-landscaping/garden-hand-tools/plant-cutting-tools/AGR.PLA.224572731_1705986786900.webp",
+    "inStock": true,
+    "features": ["Stainless steel", "Sharp blades", "Comfortable grip"]
+  },
+  {
+    "id": "6",
+    "name": "Automatic Sprinkler System",
+    "category": "tool",
+    "price": 3500,
+    "description": "Advanced automatic sprinkler system for efficient watering. Programmable timer and adjustable spray patterns.",
+    "image": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL0lycmlnYXRpb24uanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4Mjh9fX0=",
+    "inStock": true,
+    "features": ["Programmable", "Water efficient", "Easy installation"]
+  },
+  {
+    "id": "7",
+    "name": "Soil pH Testing Kit",
+    "category": "tool",
+    "price": 750,
+    "description": "Complete soil testing kit for measuring pH levels and nutrients. Essential for optimizing crop growth.",
+    "image": "https://m.media-amazon.com/images/I/71WLLgqaUCL._SX679_.jpg",
+    "inStock": true,
+    "features": ["Accurate readings", "Easy to use", "Complete kit"]
+  },
+  {
+    "id": "8",
+    "name": "Premium Compost Fertilizer",
+    "category": "fertilizer",
+    "price": 230,
+    "description": "Rich organic compost fertilizer for healthy plant growth. Made from decomposed organic matter.",
+    "image": "https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/646dd7ee3093e9edda4945a5/bio-compost0-800x800.jpg",
+    "inStock": true,
+    "features": ["100% organic", "Nutrient rich", "Improves soil health"]
+  },
+  {
+    "id": "9",
+    "name": "Multi-Purpose Farm Tractor",
+    "category": "tool",
+    "price": 55000,
+    "description": "Compact farm tractor suitable for small to medium farms. Powerful engine with multiple attachments.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1AhDd4gf4K9KfnHB8ECjs_HeYjQs2jET5vj4UcnHKy84TZPlDtxuUh8bXTVzudj5lPM&usqp=CAU",
+    "inStock": true,
+    "features": ["Powerful engine", "Multiple attachments", "Fuel efficient"]
+  },
+  {
+    "id": "10",
+    "name": "Liquid Bio Fertilizer",
+    "category": "fertilizer",
+    "price": 300,
+    "description": "Concentrated liquid bio fertilizer for foliar feeding and soil application. Enhances nutrient uptake.",
+    "image": "https://abtec.in/wp-content/uploads/2023/10/biopo.jpg",
+    "inStock": true,
+    "features": ["Concentrated", "Easy application", "Enhances uptake"]
+  },
+
+  {
+    "id": "11",
+    "name": "Hybrid Tomato Seeds",
+    "category": "seed",
+    "price": 120,
+    "description": "High-yield hybrid tomato seeds with excellent disease resistance. Perfect for both greenhouse and open field cultivation.",
+    "image": "https://agriplexindia.com/cdn/shop/files/Seminis-Hybrid-Tomato-Abhilash-Seeds.png?v=1743241419",
+    "inStock": true,
+    "features": ["High yield", "Disease resistant", "90-day harvest"]
+  },
+  {
+    "id": "12",
+    "name": "Purple Brinjal Seeds",
+    "category": "seed",
+    "price": 95,
+    "description": "Premium purple brinjal (eggplant) seeds with excellent taste and texture. Suitable for Indian cooking.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGb50OFeTsvIAFdg8w1Lz0zYSNo8rj6lbTw&s",
+    "inStock": true,
+    "features": ["Premium quality", "Rich flavor", "80-day harvest"]
+  },
+  {
+    "id": "13",
+    "name": "Green Chilli Seeds",
+    "category": "seed",
+    "price": 85,
+    "description": "Hot green chilli seeds with high spice content. Ideal for Indian cuisine and commercial cultivation.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRYmDsrgHE3bPbX7i3YXLFmcAt4c5NQYEng&s",
+    "inStock": true,
+    "features": ["High spice", "Good yield", "75-day harvest"]
+  },
+  {
+    "id": "14",
+    "name": "Lady Finger (Bendi) Seeds",
+    "category": "seed",
+    "price": 110,
+    "description": "Premium okra seeds with tender pods and high productivity. Excellent for home gardens and commercial farming.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-9rawijm8WrjGboOzyIarGhtqAWYI-VFVw&s",
+    "inStock": true,
+    "features": ["Tender pods", "High productivity", "60-day harvest"]
+  },
+  {
+    "id": "15",
+    "name": "Cucumber Seeds",
+    "category": "seed",
+    "price": 75,
+    "description": "Fresh cucumber seeds with crisp texture and good shelf life. Perfect for salads and commercial production.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSqSI6IN7n33XfO-c1hpg85yH_ru6uzYvNw&s",
+    "inStock": true,
+    "features": ["Crisp texture", "Good storage", "65-day harvest"]
+  },
+
+  {
+    "id": "21",
+    "name": "Onion Seeds",
+    "category": "seed",
+    "price": 70,
+    "description": "High-germination onion seeds with uniform bulb size and long storage life.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7oXEQaLm_QxmzqVMaImfXsqRAyw2k5ednIZGYHRvIQlAbFHaY6Vg-Ru4uf3mWoAj8Uk&usqp=CAU",
+    "inStock": true,
+    "features": ["Uniform bulbs", "Long storage", "90-day harvest"]
+  },
+  {
+    "id": "22",
+    "name": "Potato Seeds",
+    "category": "seed",
+    "price": 95,
+    "description": "Certified potato seed tubers with high productivity and disease resistance.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ACmYvdlqYvpaKXX37jSnZ1KPadPEoKl0w&s",
+    "inStock": true,
+    "features": ["High productivity", "Disease resistant", "120-day harvest"]
+  },
+  {
+    "id": "23",
+    "name": "Maize Hybrid Seeds",
+    "category": "seed",
+    "price": 140,
+    "description": "High-yield hybrid maize seeds suitable for commercial farming.",
+    "image": "https://www.desikheti.com/cdn/shop/files/22_9f628597-ad9e-4dcb-aded-ecc1d34a8160.png?v=1704363423",
+    "inStock": true,
+    "features": ["High yield", "Commercial farming", "Strong plants"]
+  },
+  {
+    "id": "24",
+    "name": "Sunflower Seeds",
+    "category": "seed",
+    "price": 130,
+    "description": "Premium sunflower seeds with high oil content and tall plants.",
+    "image": "https://gardenerspath.com/wp-content/uploads/2020/05/How-and-When-to-Harvest-Sunflower-Seeds-Pin.jpg",
+    "inStock": true,
+    "features": ["High oil content", "Tall plants", "90-day harvest"]
+  },
+  {
+    "id": "25",
+    "name": "Mustard Seeds",
+    "category": "seed",
+    "price": 85,
+    "description": "Traditional mustard seeds for oil and spice production.",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/328820342/SS/CI/LG/65404801/1-kg-mkd-yellow-mustard-seed.jpg",
+    "inStock": true,
+    "features": ["Oil rich", "Traditional use", "Fast growing"]
+  },
+  {
+    "id": "26",
+    "name": "Drip Irrigation Kit",
+    "category": "tool",
+    "price": 5000,
+    "description": "Complete drip irrigation kit for water-saving farming.",
+    "image": "https://m.media-amazon.com/images/I/91Gm2toL7dL._UF1000,1000_QL80_.jpg",
+    "inStock": true,
+    "features": ["Water saving", "Easy install", "Crop-friendly"]
+  },
+  {
+    "id": "27",
+    "name": "Electric Water Pump",
+    "category": "tool",
+    "price": 8000,
+    "description": "High-power electric water pump for irrigation.",
+    "image": "https://image.made-in-china.com/2f0j00HcQlLjUtqvYb/Electric-High-Pressure-Water-Pump-Set-Prices.webp",
+    "inStock": true,
+    "features": ["Durable motor", "High flow rate", "Low maintenance"]
+  },
+  {
+    "id": "28",
+    "name": "Organic Potash Fertilizer",
+    "category": "fertilizer",
+    "price": 460,
+    "description": "Organic potash-rich fertilizer for fruit and vegetable crops.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ1UWZp6MbgTjOLb7hARa7r3RlnaumkXkwEg&s",
+    "inStock": true,
+    "features": ["Potash rich", "Boosts flowering", "Eco-friendly"]
+  },
+  {
+    "id": "29",
+    "name": "Bio Urea Fertilizer",
+    "category": "fertilizer",
+    "price": 390,
+    "description": "Eco-friendly bio urea fertilizer with high nitrogen content.",
+    "image": "https://www.nbclindia.com/image/product-page/urae.png",
+    "inStock": true,
+    "features": ["High nitrogen", "Organic alternative", "Improves yield"]
+  },
+
+  {
+    "id": "31",
+    "name": "Organic Seaweed Extract",
+    "category": "fertilizer",
+    "price": 550,
+    "description": "Seaweed-based liquid fertilizer for boosting crop immunity.",
+    "image": "https://cdn.shopify.com/s/files/1/0722/2059/files/katyayani-seaweed-extract-liquid-for-plants-vegetables-flowers-fruits-promotes-plant-growth-flowering-fruiting-keeps-plant-healthy-and-greenish-100-organic-file-7842.jpg?v=1737438954",
+    "inStock": true,
+    "features": ["Boosts immunity", "Organic", "Liquid formula"]
+  },
+  {
+    "id": "32",
+    "name": "Plastic Mulch Sheet",
+    "category": "tool",
+    "price": 1200,
+    "description": "UV-protected plastic mulch sheet for weed control and moisture retention.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTii9lUpksQPwVC3v3cy0RgRPIiJBBK-yMXbQ&s",
+    "inStock": true,
+    "features": ["UV protected", "Weed control", "Moisture retention"]
+  },
+  {
+    "id": "33",
+    "name": "Hybrid Rice Seeds",
+    "category": "seed",
+    "price": 150,
+    "description": "High-yield hybrid rice seeds for better productivity.",
+    "image": "https://tiimg.tistatic.com/fp/1/007/453/pure-organically-grown-indian origin-gs-8090-gold-hybrid-paddy-seed-for-agriculture-157.jpg",
+    "inStock": true,
+    "features": ["High yield", "Disease resistant", "Good quality grain"]
+  },
+  {
+    "id": "34",
+    "name": "Organic Herbicide",
+    "category": "pesticide",
+    "price": 480,
+    "description": "Plant-safe organic herbicide for weed control.",
+    "image": "https://m.media-amazon.com/images/I/71SG2wP26tL.jpg",
+    "inStock": true,
+    "features": ["Eco-friendly", "Kills weeds", "Crop-safe"]
+  },
+  {
+    "id": "35",
+    "name": "Hybrid Cotton Seeds",
+    "category": "seed",
+    "price": 180,
+    "description": "High-quality hybrid cotton seeds with strong fiber.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdgmE6xMr4E7hI_M4JplQuiY5Fm8Nxr2WVg&s",
+    "inStock": true,
+    "features": ["Strong fiber", "High yield", "Pest resistant"]
+  },
+
+  {
+    "id": "37",
+    "name": "Hybrid Groundnut Seeds",
+    "category": "seed",
+    "price": 135,
+    "description": "High-yield groundnut seeds with oil-rich kernels.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbRQwm6Gml2CVlXnFv94J995umKWkZ_fERYw&s",
+    "inStock": true,
+    "features": ["Oil-rich", "High productivity", "Disease tolerant"]
+  },
+  {
+    "id": "38",
+    "name": "Organic Bio Compost",
+    "category": "fertilizer",
+    "price": 370,
+    "description": "Eco-friendly bio compost made from organic waste.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzKLsflAbKocMzVxqpgeltdxgODshxXPjpg&s",
+    "inStock": true,
+    "features": ["Eco-friendly", "Nutrient rich", "Improves soil"]
+  },
+  {
+    "id": "39",
+    "name": "Hybrid Bajra Seeds",
+    "category": "seed",
+    "price": 120,
+    "description": "Drought-tolerant hybrid bajra (pearl millet) seeds.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmzqsIyy3c4vVUm_9YkBYGxO0n7SoyhSWRw&s",
+    "inStock": true,
+    "features": ["Drought tolerant", "High yield", "Nutritious grain"]
+  },
+  {
+    "id": "40",
+    "name": "Hand Weeder Tool",
+    "category": "tool",
+    "price": 600,
+    "description": "Simple hand weeder for removing weeds from small farms and gardens.",
+    "image": "https://m.media-amazon.com/images/I/81Hhea6FU5L._UF350,350_QL50_.jpg",
+    "inStock": true,
+    "features": ["Lightweight", "Easy grip", "Efficient weeding"]
+  },
+  {
+    "id": "41",
+    "name": "Organic Zinc Fertilizer",
+    "category": "fertilizer",
+    "price": 420,
+    "description": "Organic zinc-based fertilizer to improve crop growth.",
+    "image": "https://iplbiologicals.com/wp-content/uploads/2023/11/WhatsApp-Image-2024-07-03-at-12.12.35-PM.jpeg",
+    "inStock": true,
+    "features": ["Zinc rich", "Improves growth", "Eco-safe"]
+  },
+  {
+    "id": "42",
+    "name": "Hybrid Sorghum Seeds",
+    "category": "seed",
+    "price": 145,
+    "description": "High-yield hybrid sorghum seeds suitable for dry regions.",
+    "image": "https://www.crystalcropprotection.com/images/seeds/173165083820241115.png",
+    "inStock": true,
+    "features": ["Dry region crop", "High yield", "Good quality grain"]
+  },
+  {
+    "id": "43",
+    "name": "Battery Sprayer",
+    "category": "tool",
+    "price": 3500,
+    "description": "Rechargeable battery sprayer for pesticide and fertilizer application.",
+    "image": "https://pre-live-admin.balwaan.com/uploads/media/2024/double-motor-battery-sprayer-pump-bs-30g-1.jpg",
+    "inStock": true,
+    "features": ["Rechargeable", "Portable", "Efficient spraying"]
+  },
+  {
+    "id": "44",
+    "name": "Organic NPK Fertilizer",
+    "category": "fertilizer",
+    "price": 490,
+    "description": "Balanced organic NPK fertilizer for all crops.",
+    "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/soil-manure/5/7/v/organic-npk-bio-fertilizer-granules-perfect-to-use-on-all-plants-original-imagxwfqzfguqkzu.jpeg?q=90&crop=false",
+    "inStock": true,
+    "features": ["Balanced nutrients", "Eco-friendly", "Boosts yield"]
+  },
+  {
+    "id": "45",
+    "name": "Hybrid Wheat Seeds",
+    "category": "seed",
+    "price": 160,
+    "description": "High-quality hybrid wheat seeds with excellent grain quality.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQ32mWIN1_59IfuJrZ-omuRduMxQ5gpVECQ&s",
+    "inStock": true,
+    "features": ["Excellent grain", "High yield", "Disease resistant"]
+  },
+  {
+    "id": "46",
+    "name": "Organic Bone Meal Fertilizer",
+    "category": "fertilizer",
+    "price": 350,
+    "description": "Natural bone meal fertilizer for phosphorus-rich growth.",
+    "image": "https://m.media-amazon.com/images/I/51JUSFu59DL._UF1000,1000_QL80_.jpg",
+    "inStock": true,
+    "features": ["Phosphorus rich", "Organic", "Boosts flowering"]
+  },
+  {
+    "id": "47",
+    "name": "Green Gram Seeds",
+    "category": "seed",
+    "price": 125,
+    "description": "High-quality green gram (moong dal) seeds with good yield.",
+    "image": "https://m.media-amazon.com/images/I/81F9StwUAAL._SL1500_.jpg",
+    "inStock": true,
+    "features": ["Protein rich", "Good yield", "Short duration"]
+  },
+ 
+  {
+    "id": "49",
+    "name": "Organic Sulphur Fertilizer",
+    "category": "fertilizer",
+    "price": 400,
+    "description": "Sulphur-based organic fertilizer for crop nutrition.",
+    "image": "https://5.imimg.com/data5/EU/AJ/ZA/SELLER-7311511/sulphur-20-organic-fertilizers-1000x1000.jpg",
+    "inStock": true,
+    "features": ["Sulphur rich", "Improves yield", "Eco safe"]
+  }
+]
